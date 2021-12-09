@@ -34,7 +34,7 @@
                 <select name="negeri">
                 <option value=""></option>
                 <option value="09">Perlis</option>
-                <option value="02">Kedah</option>
+                <option value="kedah">Kedah</option>
                 <option value="08">Perak</option>
                 </select>
             </td>

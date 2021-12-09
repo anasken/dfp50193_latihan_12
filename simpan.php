@@ -30,7 +30,9 @@ $gagal = false;
 if ($nama == '') {
     $gagal = true;
 }
-
+elseif ($alamat == ''){
+    $gagal = true;
+}
 if ($gagal) {
 ?>
     <script>
